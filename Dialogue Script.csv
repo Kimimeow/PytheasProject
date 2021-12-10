@@ -1,0 +1,267 @@
+,NPC_ID,Conversation_ID,Line_ID,Dialogue,Name,Level_ID
+1,1,1,1,He's a boy; a strong one.,Doctor,Hospital_V01
+2,2,1,2,Simon… he’s my Simon.,Mother,Hospital_V01
+3,1,1,1,We should have hired someone for this.,Mother,OldHouse_V02
+4,2,1,2,Do you know how much that costs? No thank you.,Father,OldHouse_V02
+5,1,1,3,"Ah, there, there. Don't you worry, little guy. We're here for you",Mother,OldHouse_V02
+6,2,1,4,This family is the best thing that's ever happened to me.,Father,OldHouse_V02
+7,1,1,5,Someone's sentimental...,Mother,OldHouse_V02
+8,2,1,6,"Hey, it's the truth! I just hope he’s going to feel the same way.",Father,OldHouse_V02
+9,1,1,7,He will.,Mother,OldHouse_V02
+10,1,1,1,Don't forget to take notes! I'll help you go through them when you come back home.,Mother,School_V03
+11,2,1,2,I won't forget!,Simon,School_V03
+12,3,1,3,"If there's a problem, just ask the teacher to call us",Father,School_V03
+13,2,1,4,"Don’t worry, dad. I'll be fine!",Simon,School_V03
+14,1,1,5,See? He says he'll be fine,Mother,School_V03
+15,3,1,6,"*Sigh* Alright. Just take care. I’ll see you later, son!",Father,School_V03
+16,2,1,7,Later!,Simon,School_V03
+17,1,1,1,"Still waiting, huh?",Julia,School_V04
+18,2,1,2,They'll be here soon. What about you?,Simon,School_V04
+19,1,1,3,"My parents are always late, but yours are usually the first to get here.",Julia,School_V04
+20,1,1,4,"Or so I've noticed, anyway.",Julia,School_V04
+21,2,1,5,"Huh? Yeah, I guess. They don't like me staying out here for long, especially in the winter.",Simon,School_V04
+22,1,1,6,That sure doesn't seem to be the case today.,Julia,School_V04
+23,2,1,7,"Well, maybe something came up, I don't know. I don't mind waiting.",Simon,School_V04
+24,1,1,8,I'm just teasing you. I kinda hate having to wait for them every day.,Julia,School_V04
+25,2,1,9,Haven't you gotten used to it by now?,Simon,School_V04
+26,1,1,10,"Funnily enough, no. I see everyone going home early with parents who seem to care, to a home they seem to love. That sure as heck isn't me.",Julia,School_V04
+27,2,1,11,I think it's easy to judge others when you don't know what they're really like.,Simon,School_V04
+28,1,1,12,Meaning?,Julia,School_V04
+29,2,1,13,"Well, nobody's perfect, you know?",Simon,School_V04
+30,2,1,14,"I'm sure your parents wish they could pick you up early every day. That's what I'd want to do, at least.",Simon,School_V04
+31,1,1,15,"Yeah, that's a nice dream. I doubt my parents care that much about me.",Julia,School_V04
+32,2,1,16,"Even if they don't, someone will. We all get our chance to be cared about.",Simon,School_V04
+33,1,1,17,"Again, that's a nice dream... But I hope you're right.",Julia,School_V04
+34,1,1,1,"Welcome, Julia! I hope you feel right at home.",Mother,OldHouse_V05
+35,2,1,2,"Hello, Mr. and Ms. Wright. Thanks for having me!",Julia,OldHouse_V05
+36,3,1,3,"Oh, please, just call me Joseph. Mr. Wright is my-",Father,OldHouse_V05
+37,4,1,4,Don't you dare...,Simon,OldHouse_V05
+38,1,1,5,"So, you're the Julia I've been hearing all about? You're such a dolly! I love the dress.",Mother,OldHouse_V05
+39,2,1,6,"Thank you so much, Miss. It's my mother's dress. She insisted on me wearing it today.",Julia,OldHouse_V05
+40,1,1,7,"Well, I think it looks gorgeous on you! Don't you think so, Simon?",Mother,OldHouse_V05
+41,4,1,8,"Uhm, sure. It looks pretty nice on her",Simon,OldHouse_V05
+42,1,1,9,But don't say it to me!,Mother,OldHouse_V05
+43,2,1,10,*Chuckles*,Julia,OldHouse_V05
+44,4,1,11,Can we go eat now? Dinner's gonna get cold.,Simon,OldHouse_V05
+45,3,1,12,Boy's got a point. I'm starving.,Father,OldHouse_V05
+46,4,1,13,You're always starving.,Simon,OldHouse_V05
+47,1,1,14,That he is.,Mother,OldHouse_V05
+48,1,1,1,"Hey, everything alright? You disappeared back there.",Julia,School_V06
+49,2,1,2,I just wanted some air. I'm not good at these kinds of events.,Simon,School_V06
+50,1,1,3,Are you good at any kind of event?,Julia,School_V06
+51,2,1,4,...,Simon,School_V06
+52,1,1,5,"You know I'm just messing with you, dummy. To be honest, I felt pretty awkward, too.",Julia,School_V06
+53,2,1,6,Then why did you bother coming? We should have stayed home.,Simon,School_V06
+54,1,1,7,I came because I wanted this. I wanted to share it with you. This is the last chance we’ll get.,Julia,School_V06
+55,2,1,8,What do you mean?,Simon,School_V06
+56,1,1,9,"Well, school is over. Everyone else spent their days having fun, doing all sorts of crazy stuff. Us? We’re out here. I thought maybe that’s what I needed. Maybe if I go out and have a nice, traditional school prom, I'd know what the rest feels like.",Julia,School_V06
+57,2,1,10,So is that it? Am I that boring?,Simon,School_V06
+58,1,1,11,"No, you know that's not what I mean.",Julia,School_V06
+59,2,1,12,"I know. I'm just messing with you, dummy.",Simon,School_V06
+60,1,1,13,...,Julia,School_V06
+61,2,1,14,It’s crazy to think high school is over. It doesn’t feel that way.,Simon,School_V06
+62,1,1,15,I still feel like just a kid. My parents would probably agree.,Julia,School_V06
+63,2,1,16,"Hey, how about we go back inside?",Simon,School_V06
+64,1,1,17,Hmm? I thought you weren't good at events like these.,Julia,School_V06
+65,2,1,18,"Yeah, but what kind of boyfriend would take her girl to a prom without asking for a dance?",Simon,School_V06
+66,1,1,1,Did you tell your parents yet?,Julia,Park_V07
+67,2,1,2,"No, not yet. I’m waiting for the right moment.",Simon,Park_V07
+68,1,1,3,And when exactly is that going to be?,Julia,Park_V07
+69,2,1,4,"Honestly, I don’t know. They might have figured it out already.",Simon,Park_V07
+70,2,1,5,You don’t start packing unless you plan to leave.,Simon,Park_V07
+71,1,1,6,All the more reason to tell them.,Julia,Park_V07
+72,1,1,7,"It’s not like they’ll get mad, you know? It’s only natural after college.",Julia,Park_V07
+73,2,1,8,"They’ve always wanted me to keep the house, but I can’t force them to move like that.",Simon,Park_V07
+74,1,1,9,"So, you won’t. They’ll understand. There’s no need to get worked up about it, goof.",Julia,Park_V07
+75,2,1,10,I genuinely hope you’re right.,Simon,Park_V07
+76,1,1,11,When am I not right?,Julia,Park_V07
+77,2,1,12,Good question. I’ll get back to you on the answer.,Simon,Park_V07
+78,1,1,13,...,Julia,Park_V07
+79,2,1,14,Speaking about answers…,Simon,Park_V07
+80,1,1,15,"Wow, that was such a smooth transition, there.",Julia,Park_V07
+81,2,1,16,Did you give it any more thought?,Simon,Park_V07
+82,1,1,17,"Look, you know what my parents think about us moving together before marriage. I don’t want to leave and make things even worse than they already are.",Julia,Park_V07
+83,2,1,18,"I know, but still. It feels like it’s about time. I don’t want to move to an empty room when I know you’re still waiting.",Simon,Park_V07
+84,1,1,19,"I get that, and I feel the same, but you know they-",Julia,Park_V07
+85,2,1,20,"I want to wake up with you by my side. I want to see that smile of yours every day, glad to know I can help it shine. Honored to know you’re letting me help it shine.",Simon,Park_V07
+86,1,1,21,Simon…,Julia,Park_V07
+87,2,1,22,I want to help you find that something. I want to become that someone who deserves you.,Simon,Park_V07
+88,1,1,23,"God, I can’t believe you.",Julia,Park_V07
+89,2,1,24,I want to be your chance to be cared about. Will you let me?,Simon,Park_V07
+90,1,1,1,"Dear family and friends, we are here today to witness and celebrate the union of Simon Wright and Julia Peterson in sacred matrimony.",Pastor,Church_V08
+91,1,1,2,"True love is rare. It remains hidden, often forgotten, trapped in the deepest depths of the sea. But we are gathered as proof that Simon and Julia have found it.",Pastor,Church_V08
+92,1,1,3,"May their story, still untold, be a beacon of inspiration. May the journey that is married life be their greatest one yet.",Pastor,Church_V08
+93,1,1,1,Is there anything left in the car?,Simon,NewHouse_V09
+94,2,1,2,"Nope, I double-checked.",Julia,NewHouse_V09
+95,1,1,3,Great. Moving all of those gifts over was too much of a hassle.,Simon,NewHouse_V09
+96,2,1,4,I didn't even think my parents would give us anything.,Julia,NewHouse_V09
+97,1,1,5,"I was more surprised that your mom came to me and asked if I was sure I was making the right choice, heh.",Simon,NewHouse_V09
+98,2,1,6,Don't even. She asked because of what I said when you proposed.,Julia,NewHouse_V09
+99,1,1,7,Did you tell her about that?,Simon,NewHouse_V09
+100,2,1,8,"Once she saw the ring, there was no escape. When I told her about it, she started laughing *so* hard.",Julia,NewHouse_V09
+101,1,1,9,I wasn't laughing.,Simon,NewHouse_V09
+102,2,1,10,"Hey, you gotta admit it was pretty funny! And it was your fault for putting me on the spot like that.",Julia,NewHouse_V09
+103,1,1,11,"But seriously, ""Good question, I'll get back to you on the answer""?!",Simon,NewHouse_V09
+104,2,1,12,*Chuckles* It never gets old.,Julia,NewHouse_V09
+105,1,1,13,Unlike me. I seem to be aging by the minute ever since we moved here.,Simon,NewHouse_V09
+106,2,1,14,"I, for one, couldn't be happier. A house, a car, a loving husband, a stable job... It's pretty much all that anyone could ever wish for.",Julia,NewHouse_V09
+107,1,1,15,That's a decent wishlist. Is there space for a vacation in it?,Simon,NewHouse_V09
+108,2,1,16,"Yep, and we better take advantage of it while it lasts. Someday I doubt we'll have the time.",Julia,NewHouse_V09
+109,1,1,17,I'm still not sure...,Simon,NewHouse_V09
+110,2,1,18,"Look, I'm not saying it has to be anytime soon, but it's something I really want.",Julia,NewHouse_V09
+111,1,1,19,"It's not that. I definitely want it, but I'm not sure I'm ready. I don't know if I'll ever be, honestly.",Simon,NewHouse_V09
+112,2,1,20,"And you think I feel ready? I'd be completely terrified. But I know things will end up okay. You'll be the dumb but amazing dad, and I'll be the kick-ass mum.",Julia,NewHouse_V09
+113,1,1,21,You sound awfully confident.,Simon,NewHouse_V09
+114,2,1,22,"I read a quote once. ""Everything will be okay in the end. If it isn't okay, it isn't the end"". I know it's unrealistic, but I like to think it's true. That even if everything goes wrong, we can still rest assured we'll be okay.",Julia,NewHouse_V09
+115,1,1,23,"You know, you've gotten a lot more positive compared to high school. I like to think I had something to do with that.",Simon,NewHouse_V09
+116,2,1,24,"Oh? Someone's got an ego. I won't offer a response to your comment, mister.",Julia,NewHouse_V09
+117,1,1,25,That said… I hope kids like dumb but amazing dads.,Simon,NewHouse_V09
+118,2,1,26,You bet they do..,Julia,NewHouse_V09
+119,1,1,1,"She's a beautiful girl, miss.",Doctor,Hospital_V10
+120,2,1,2,"Lace, Just like her grandma.",Julia,Hospital_V10
+121,1,1,1,Do I really have to go alone? Can't you come with me?,Lace,School_V11
+122,2,1,2,"Big girls can go to school on their own, can't they?",Simon,School_V11
+123,1,1,3,Yeah but...,Lace,School_V11
+124,3,1,4,"Hey, don't worry. We'll be here to pick you up as soon as it's time to go back home.",Julia,School_V11
+125,1,1,5,Right here? You promise?,Lace,School_V11
+126,3,1,6,I promise we'll be waiting for you!,Julia,School_V11
+127,1,1,7,Alright... I think I'm ready.,Lace,School_V11
+128,2,1,8,"We'll see you soon, sweetie. Have a good day!",Simon,School_V11
+129,1,1,9,"Bye mom, bye dad!",Lace,School_V11
+130,3,1,10,"Goodbye, little birdie!",Julia,School_V11
+131,1,1,1,I just saw another one!,Lace,Park_V12
+132,2,1,2,Oh yeah? Was it pretty?,Julia,Park_V12
+133,1,1,3,"Yeah, it was yellow. I think it had some red as well.",Lace,Park_V12
+134,3,1,4,Our professional birdwatcher strikes again!,Simon,Park_V12
+135,1,1,5,Not even. I left my binoculars and camera at home.,Lace,Park_V12
+136,2,1,6,I told you to pack them up before breakfast.,Julia,Park_V12
+137,1,1,7,I couldn't find them! We haven't come here in forever.,Lace,Park_V12
+138,2,1,8,You should have told me! I think they're in the basement.,Julia,Park_V12
+139,1,1,9,They shouldn't be in the basement... We used to come here every week.,Lace,Park_V12
+140,3,1,10,"Sweetie, we've talked about it. I've been busy at work, and you know your mother hasn't been feeling well. We'll try to come more often, but it isn't for sure. It's out of our hands.",Simon,Park_V12
+141,1,1,11,"Yeah, I know... I just really wish we could. I loved coming here to just watch the birds and hang out.",Lace,Park_V12
+142,2,1,12,I remember you saw a red bird once and thought it was a Phoenix.,Julia,Park_V12
+143,1,1,13,"Oh, mom, that was ages ago.",Lace,Park_V12
+144,2,1,14,"Yeah, but your father here pretended it really was. You went to school excited to tell your friends about the Phoenix bird you saw.",Julia,Park_V12
+145,3,1,15,Was I supposed to break her heart? She looked so thrilled.,Simon,Park_V12
+146,2,1,16,"You weren't supposed to encourage her, that's for sure.",Julia,Park_V12
+147,1,1,17,"It's not like any of my friends believed me, anyway. The teacher explained it all to me afterward.",Lace,Park_V12
+148,3,1,18,"See? No harm, no foul. I get the cool dad points with none of the drawbacks.",Simon,Park_V12
+149,2,1,19,"Gosh, you're such a...",Julia,Park_V12
+150,1,1,20,...Mom? Are you okay?,Lace,Park_V12
+151,3,1,21,Julia?!,Simon,Park_V12
+152,1,1,1,"Name, Julia Peterson. Time of death, 2:13 am. Cardiac arrest. I'll tell the family.",Doctor,Hospital_V13
+153,1,1,1,"We honor a woman who changed many lives. We will stop to hear the stories, to laugh and cry as we remember with our hearts, and mourn with our eyes. Julia made an impact on this world. The fact that we are here is proof of that. May her memory be carried on by those who knew her, and by those fortunate enough to have loved her.",Pastor,Cemetary_V14
+154,2,1,2,Dad…,Lace,Cemetary_V14
+155,3,1,3,Lace?,Simon,Cemetary_V14
+156,2,1,4,"She left, dad… She left me. She’s not coming back. I’m alone.",Lace,Cemetary_V14
+157,3,1,5,"Look, I’m right here with you.",Simon,Cemetary_V14
+158,2,1,6,You’re not her.,Lace,Cemetary_V14
+159,1,1,1,There you are. Are you okay?,John,School_V15
+160,2,1,2,What do you care? It was your friend who did that number back there.,Lace,School_V15
+161,1,1,3,"Yes, I know Elisa can be a handful, but she's good at heart.",Jogn,School_V15
+162,2,1,4,"Believe me, I know her all too well. I doubt she even has a heart.",Lace,School_V15
+163,1,1,5,"Look, I'm here to apologize. What she did was wrong, and there's no excuse. I didn't stop her. I really didn't think she would take it that far, especially not today.",John,School_V15
+164,2,1,6,"Taking it far is what she does best. Ever since high school started, she's made it her mission to make my life impossible. Safe to say she has won.",Lace,School_V15
+165,1,1,7,"But why, though? Is it just because of your mother? She doesn't pick fights with anyone else, just you.",John,School_V15
+166,2,1,8,Aren't I the lucky one? It probably started because I stopped hanging out with her after what happened. Now? I don't even know why she bothers. Maybe she just finds it funny.,Lace,School_V15
+167,1,1,9,Didn’t your dad try to do something? Maybe transfer?,John,School_V15
+168,2,1,10,"He came here to complain after a teacher told him what was happening. You know how this stuff works. Her family helps the school a lot. And my dad can barely pay for this, so transferring wasn’t an option.",Lace,School_V15
+169,1,1,11,"Well- Uh, sorry, it’s like I’m interrogating you. It just doesn’t feel fair that you had to go through all of that. I had no idea it was that bad.",John,School_V15
+170,2,1,12,"It’s okay, you’re not the first one to ask. I had a lot of discussions with my dad about this, about how I should talk to her and fix things up. It just never seemed realistic. There wasn’t much anyone could do. She hates me and that’s that.",Lace,School_V15
+171,1,1,13,"I could have tried to help if I knew. It just seemed like fun and games from my perspective. Maybe your dad was right. Maybe if you talked with her, things would have gotten better.",John,School_V15
+172,2,1,14,"Like I said, she hates me and that’s that. My dad just said whatever would make it seem like he cared.",Lace,School_V15
+173,1,1,15,What are you talking about?,John,School_V15
+174,2,1,16,"Look, I didn’t come out here looking for conversation.",Lace,School_V15
+175,1,1,17,"I’m sorry… I’m just trying to get to know you better, for what that’s worth. If you don’t want to answer, that’s completely okay.",John,School_V15
+176,2,1,18,"*Sigh* Well, things between me and dad weren’t the same after my mom died. I guess he tried being there for me, but I shut down. I didn’t know what I was supposed to do without her. In middle school, I was just one more student. When I started high school, I was the girl with the dead mom. I distanced myself, and he started doing it as well. Maybe I gave him no choice.",Lace,School_V15
+177,1,1,19,That sounds… Very rough. I can’t even think of anything to say. I’m sorry you had to go through all of that.,John,School_V15
+178,2,1,20,"You keep apologizing, but you haven’t done anything wrong. If anything, well, I guess I’m glad you came looking for me. I’d probably be home by now, otherwise.",Lace,School_V15
+179,1,1,21,"Hey, it was the least I could do after what happened. I imagine you weren’t planning on getting questioned by a guy you barely know.",John,School_V15
+180,2,1,22,"Hmm, no, I do know you. You’re the red hair guy.",Lace,School_V15
+181,1,1,23,"Oh, for crying out loud. That was a single week!",John,School_V15
+182,2,1,24,Hehe. I got you mad.,Lace,School_V15
+183,1,1,25,"Well, at least I’m not the Phoenix girl.",John,School_V15
+184,2,1,26,W- what?! You know about that?,Lace,School_V15
+185,1,1,27,I’ve got my ways of getting inside information around the school.,John,School_V15
+186,2,1,28,"Pfft. Yeah, right.",Lace,School_V15
+187,1,1,29,"Speaking about school, what do you plan to do now?",John,School_V15
+188,2,1,30,Hmm?,Lace,School_V15
+189,1,1,31,"You know, since it’s all over. I plan to work at my dad’s store until I start college, and there I’ll probably study education. How about you?",John,School_V15
+190,2,1,32,"Well, I’ll likely move to an apartment by next year. I’ve been working on a side job for a few months, so I can afford it if I go full-time.",Lace,School_V15
+191,1,1,33,"Woah, you’ll just leave your house like that?",John,School_V15
+192,2,1,34,"I already told my dad about it. He didn’t seem to mind, or at least he didn’t tell me if that was the case.",Lace,School_V15
+193,1,1,35,Still… That’s a big jump.,John,School_V15
+194,2,1,36,"It’s nothing I’m not prepared to do. Even if I fail, I’ll just get up and try again. That’s how you improve; you get up and keep going.",Lace,School_V15
+195,1,1,37,Hmm. Nice words to live by. I truly hope it goes well for you.,John,School_V15
+196,2,1,38,Thanks. I hope so as well.,Lace,School_V15
+197,1,1,1,"No, that part was pretty straightforward. I just took the test.",Lace,Park_V16
+198,2,1,2,And the car?,Simon,Park_V16
+199,1,1,3,Loan. There wasn’t much left with the apartment bills and all.,Lace,Park_V16
+200,2,1,4,I can’t believe you managed all of that on your own.,Simon,Park_V16
+201,1,1,5,"What, weren’t you sure I’d be able to make it?",Lace,Park_V16
+202,2,1,6,"I was very sure, but it still feels like it was yesterday that you needed me to cook for you. It’s a bit hard to digest the fact you’re a grown woman now, and a darn amazing one at that.",Simon,Park_V16
+203,1,1,7,"Heh, for what it’s worth, it’s thanks to you that I’m even standing here in the first place. Even after she was gone, you did all you could.",Lace,Park_V16
+204,2,1,8,If only that had been enough…,Simon,Park_V16
+205,1,1,9,Dad…,Lace,Park_V16
+206,2,1,10,It’s okay. We both know it wasn’t. You left the house for a reason. I’m just happy that you grew strong enough to do it.,Simon,Park_V16
+207,1,1,11,"I left because I wanted to take control of my life, not because I thought you weren’t doing enough. You worked really hard for us for so long.",Lace,Park_V16
+208,2,1,12,"I was doing it for you. As long as you could have all that you needed, nothing else mattered.",Simon,Park_V16
+209,1,1,13,I did. You even bought those new binoculars when I asked if we could go birdwatching to the reserve.,Lace,Park_V16
+210,2,1,14,"We never went, did we?",Simon,Park_V16
+211,1,1,15,"No, but I brought them today. I thought we could watch them here, just like we did back then.",Lace,Park_V16
+212,2,1,16,Just like when your mother was here.,Simon,Park_V16
+213,1,1,17,What do you think she’d say today? What would she think about us?,Lace,Park_V16
+214,2,1,18,"I think she’d be really proud of her daughter, and the woman she has become. Just as proud as I am.",Simon,Park_V16
+215,1,1,19,Yeah… That’s what I thought as well.,Lace,Park_V16
+216,2,1,20,"So, are you still dating that John guy?",Simon,Park_V16
+217,1,1,21,That’s actually the main reason I asked you to come. He proposed to me.,Lace,Park_V16
+218,2,1,22,Oh. Did you accept?,Simon,Park_V16
+219,1,1,23,"Yeah, I did. The wedding is planned for early next year.",Lace,Park_V16
+220,2,1,24,Wow… That’s… A lot.,Simon,Park_V16
+221,1,1,25,I wanted to tell you in person and also just chat for once. He proposed to me last week. I'm moving over to his house after the wedding.,Lace,Park_V16
+222,2,1,26,This John guy… Are you sure?,Simon,Park_V16
+223,1,1,27,"If I wasn’t sure, I wouldn’t have said yes, you know. It’s sudden, but you’ve talked to him before. You said you liked him.",Lace,Park_V16
+224,2,1,28,"Yeah, as your boyfriend! I didn’t think you’d end up marrying the guy!",Simon,Park_V16
+225,1,1,29,Dad.,Lace,Park_V16
+226,2,1,30,"Okay, sorry. I know it’s your choice, I’m not going to go against it, I’m just trying to process this.",Simon,Park_V16
+227,1,1,31,"It’s okay, I understand.",Lace,Park_V16
+228,2,1,32,I can’t believe this is gonna happen already. Her little birdie is gonna get married.,Simon,Park_V16
+229,1,1,33,Except I’m not so little anymore.,Lace,Park_V16
+230,2,1,34,"To your mother, it didn’t matter how old you got, or how bigger you seemed to grow. You’d always be her precious little birdie.",Simon,Park_V16
+231,1,1,1,"John Coleman, do you take this woman to be your wife, to love her, to honor her, to comfort her, to face life with her, and to keep her in sickness and in health, against all tribulation, for as long as you both shall live?",Pastor,Church_V17
+232,2,1,2,I do.,John,Church_V17
+233,1,1,3,"Lace Wright, do you take this man to be your husband, to love him, to honor him, to comfort him, to face life with him, and to keep him in sickness and in health, against all tribulation, for as long as you both shall live?",Pastor,Church_V17
+234,3,1,4,I do.,Lace,Church_V17
+235,1,1,5,I now pronounce you husband and wife.,Pastor,Church_V17
+236,1,1,1,"Alright, are you ready? I'll throw it again.",Simon,Park_V18
+237,2,1,2,This time I'll kick it to the moon!,Joseph,Park_V18
+238,1,1,3,"Haha, that's the spirit!",Simon,Park_V18
+239,3,1,4,You two having fun?,Lace,Park_V18
+240,2,1,5,"Yeah, but grandpa is sooo slow. ",Joseph,Park_V18
+241,1,1,6,Oh yeah? Let me show you what these old bones can do.,Simon,Park_V18
+242,2,1,7,Bring it on!,Joseph,Park_V18
+243,4,1,8,I'm glad they get along well.,John,Park_V18
+244,3,1,9,"If my dad's good for anything, it's spoiling a kid. Not that I complained.",Lace,Park_V18
+245,4,1,10,"Haha, that's clear enough. But you should give him more credit, Joe loves him.",John,Park_V18
+246,3,1,11,"Yeah, he's been good to him. He told me he's planning to buy Joe an actual soccer set this Christmas. Goalposts and all.",Lace,Park_V18
+247,4,1,12,Huh? Where would we even set that up?,John,Park_V18
+248,3,1,13,No clue. I guess we could bring it when we come to the park... This is why I wanted a house with a yard.,Lace,Park_V18
+249,4,1,14,"Are you still worked up about that? You know yards don't take care of themselves, right?",John,Park_V18
+250,3,1,15,The same could be said about you.,Lace,Park_V18
+251,4,1,16,Uncalled for. I quite frankly feel offended.,John,Park_V18
+252,3,1,17,"That was my intention. But seriously, now, what do you think about that gift?",Lace,Park_V18
+253,4,1,18,How so? It sounds like a really nice gift. You know how much Joseph loves soccer.,John,Park_V18
+254,3,1,19,"Yeah... What I mean is, he's really trying to be a part of his life. We've been bringing Joe here a lot and my dad has been coming as well. I guess I'm just really happy to see him like this.",Lace,Park_V18
+255,4,1,20,"It's like I said earlier, I'm glad they get along well. Not just for them, but for you getting closer to your dad, as well",John,Park_V18
+256,3,1,21,"Oh, yeah...",Lace,Park_V18
+257,4,1,22,Isn't that a good thing?,John,Park_V18
+258,3,1,23,"It is. It feels... Like something I lost long ago is back. Like this feeling that I didn't even know was missing has returned. I still hope to get even closer, maybe even make up for all of the time we lost.",Lace,Park_V18
+259,4,1,24,"Honestly, It makes me really happy to hear you say that. One of my wishes was to help you fix things up with your dad.",John,Park_V18
+260,3,1,25,"Well, you certainly helped. I know I’m not the most receptive person out there, so, thank you.",Lace,Park_V18
+261,4,1,26,Your happiness is all of the thanks I need. How about we join those two?,John,Park_V18
+262,3,1,27,"Oh, I’m gonna kick your butt.",Lace,Park_V18
+263,4,1,28,You're on.,John,Park_V18
+264,1,1,1,"Every life on Earth is like a river. Some rivers extend into the sea, while others end sooner than we’d like. Every one of them, however, leaves a trail behind. This trail can be memories, regrets, or pain, or hope.",Pastor,Cemetary_V19
+265,1,1,2,"What the trail represents depends entirely on us. Is it a stream of possibilities and fears? Or a straight line of reality? Whatever the case might be, the trail will stay with us even after the river is gone.",Pastor,Cemetary_V19
+266,1,1,3,"Simon Wright lived a life of joy and happiness. Of grief and regret. Of love and acceptance. May his trail stay with us, as a reminder that nothing is beautiful because it lasts, but because it leaves a lasting impact on us.",Pastor,Cemetary_V19
